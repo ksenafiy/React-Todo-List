@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "All our dreams can come true, if we have the courage to pursue them",
+            "author": "Walt Disney"
+        },
+        {
+            "id": 2,
+            "title": "If you can dream it, then you can achieve it",
+            "author": "Walt Disney"
+        },
+        {
+            "id": 3,
+            "title": "The future belongs to those who believe in the beauty of their dreams",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "id": 4,
+            "title": "Go confidently in the direction of your dreams. Live the life you have imagined",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "id": 5,
+            "title": "Whatever the mind can conceive and believe, it can achieve",
+            "author": "Napoleon Hill"
+        },
+        {
+            "id": 6,
+            "title": "There is only one thing that makes a dream impossible to achieve: the fear of failure",
+            "author": "Paulo Coelho"
+        },
+        {
+            "id": 7,
+            "title": "Too many of us are not living our dreams because we are living our fears",
+            "author": "Les Brown"
+        },
+        {
+            "id": 8,
+            "title": "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart",
+            "author": "Roy T.Bennett."
+        },
+        {
+            "id": 9,
+            "title": "Our greatest glory is not in never falling, but in rising every time we fall",
+            "author": "Confucius"
+        },
+        {
+            "id": 10,
+            "title": "Everything you’ve ever wanted is on the other side of fear",
+            "author": "George Addair"
+        },
+        {
+            "id": 11,
+            "title": "Success is not final, failure is not fatal: it is the courage to continue that counts",
+            "author": "Winston Churchill"
+        },
+        {
+            "id": 12,
+            "title": "Your time is limited, so don’t waste it living someone else’s life",
+            "author": "Steve Jobs"
+        },
+        {
+            "id": 13,
+            "title": "In order to carry a positive action we must develop here a positive vision",
+            "author": "Dalai Lama"
+        },
+        {
+            "id": 14,
+            "title": "I am not a product of my circumstances. I am a product of my decisions",
+            "author": "Stephen Covey"
+        },
+        {
+            "id": 15,
+            "title": "Strength does not come from physical capacity. It comes from an indomitable will",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "id": 16,
+            "title": "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all",
+            "author": "Dale Carnegie"
+        },
+        {
+            "id": 17,
+            "title": "Twenty years from now you will be more disappointed by the things you didn’t do than by the things you did",
+            "author": "Mark Twain"
+        }
+    ]
+}
